@@ -1,0 +1,8 @@
+@"
+.claude/
+*.bak
+*.ipynbA.ipynb
+.ipynb_checkpoints/
+__pycache__/
+iframe_figures/
+"@ | Out-File -FilePath .gitignore -Encoding utf8
