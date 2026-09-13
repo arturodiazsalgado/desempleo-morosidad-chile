@@ -5,4 +5,4 @@
 .ipynb_checkpoints/
 __pycache__/
 iframe_figures/
-"@ | Out-File -FilePath .gitignore -Encoding utf8
+"@ | Out-File -FilePath .gitignore -Encoding utf8.DS_Store
