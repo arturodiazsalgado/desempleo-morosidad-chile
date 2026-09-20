@@ -83,6 +83,7 @@ Las dependencias necesarias se encuentran en `requirements.txt`.
 
 ```bash
 pip install -r requirements.txt
+```
 
 
 ## Autor
