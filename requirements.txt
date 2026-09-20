@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+beautifulsoup4
+lxml
+statsmodels>=0.14
+scipy
+scikit-learn
+plotly
+ruptures
